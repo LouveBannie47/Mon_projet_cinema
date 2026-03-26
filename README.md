@@ -15,11 +15,11 @@ Projet de gestion de films et d'acteurs avec Python et MySQL. Ce projet permet d
 - mysql-connector-python (`pip install mysql-connector-python`)
 
 
-🚀 Installation et exécution
+## Installation et exécution
 1. Importer la base de données dans MySQL : `mysql -u root -p < cinemadb.sql`
 2. Exécuter le programme : `python mysql_ionis_cinema.py`
 
-💻 Fonctionnalités
+## Fonctionnalités
 - Affiche la liste de tous les acteurs
 - Affiche la liste de tous les films
 - Affiche quel acteur a joué dans quel film grâce à la table de jointure ajouédans
@@ -28,7 +28,8 @@ Projet de gestion de films et d'acteurs avec Python et MySQL. Ce projet permet d
 
 <img width="1916" height="1003" alt="Capture d&#39;écran 2026-03-26 142310" src="https://github.com/user-attachments/assets/e0cc0c35-8633-4fae-8736-301ef84c438b" />
 
-📚 Exemple de sortie
+## Exemple de sortie
+
 ==================== LISTE DES ACTEURS ====================
 (1, 'DiCaprio', 'Leonardo', 'Américaine')
 (2, 'Johansson', 'Scarlett', 'Américaine')
