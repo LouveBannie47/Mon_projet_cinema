@@ -33,16 +33,19 @@ Projet de gestion de films et d'acteurs avec Python et MySQL. Ce projet permet d
 ==================== LISTE DES ACTEURS ====================
 
 (1, 'DiCaprio', 'Leonardo', 'Américaine')
+
 (2, 'Johansson', 'Scarlett', 'Américaine')
 
 ==================== LISTE DES FILMS ====================
 
 (1, 'Inception', '2010', 'Science-fiction', 148, 'Christopher Nolan')
+
 (2, 'Lucy', '2014', 'Action', 89, 'Luc Besson')
 
 ==================== ACTEURS ET FILMS ====================
 
 Leonardo DiCaprio a joué dans Inception
+
 Scarlett Johansson a joué dans Lucy
 
 
