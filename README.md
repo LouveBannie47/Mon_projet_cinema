@@ -16,8 +16,8 @@ Projet de gestion de films et d'acteurs avec Python et MySQL. Ce projet permet d
 
 
 ## Installation et exécution
-1. Importer la base de données dans MySQL : `mysql -u root -p < cinemadb.sql`
-2. Exécuter le programme : `python mysql_ionis_cinema.py`
+- Importer la base de données dans MySQL : `mysql -u root -p < cinemadb.sql`
+- Exécuter le programme : `python mysql_ionis_cinema.py`
 
 ## Fonctionnalités
 - Affiche la liste de tous les acteurs
